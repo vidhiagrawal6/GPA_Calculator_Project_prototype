@@ -1,0 +1,20 @@
+this is a sample test case to check:
+
+Menu Choice: 1 (Add New Semester)
+Semester Number: 1
+Number of courses: 3
+
+Course 1:
+  Name: Data Structures
+  Grade: A+
+  Credits: 4
+
+Course 2:
+  Name: Mathematics
+  Grade: A
+  Credits: 3
+
+Course 3:
+  Name: Physics
+  Grade: B+
+  Credits: 3
